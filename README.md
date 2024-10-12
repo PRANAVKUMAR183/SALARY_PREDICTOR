@@ -7,4 +7,5 @@
 **Key Techniques**: Linear Regression, Polynomial Regression, Data Preprocessing, Feature Selection.
 
 **Outcome**: Built a salary prediction model that can help HR departments and professionals in setting realistic salary expectations based on industry standards
+Value came out to be 167000 which was very close the quoted value of the employee.
 
